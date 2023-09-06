@@ -1,2 +1,2 @@
 #!/bin/bash
-each '"(Ôo)'\'
+echo '"(Ôo)'\'
